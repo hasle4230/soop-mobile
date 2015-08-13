@@ -1,3 +1,6 @@
 article{
   border: 1 px;
 }
+.horizontal-tabs ul.horizontal-tabs-list li a, .horizontal-tabs ul.horizontal-tabs-list li.selected a{
+  font-size: 13px;
+}
