@@ -4,3 +4,6 @@ article{
 .horizontal-tabs ul.horizontal-tabs-list li a, .horizontal-tabs ul.horizontal-tabs-list li.selected a{
   font-size: 13px;
 }
+body p, body .field-name-field-body{
+  font-size: 15px;
+}
